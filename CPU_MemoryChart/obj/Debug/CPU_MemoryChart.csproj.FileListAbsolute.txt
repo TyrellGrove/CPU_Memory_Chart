@@ -1,0 +1,10 @@
+c:\users\ttstester\documents\visual studio 2012\Projects\CPU_MemoryChart\CPU_MemoryChart\bin\Debug\CPU_MemoryChart.exe.config
+c:\users\ttstester\documents\visual studio 2012\Projects\CPU_MemoryChart\CPU_MemoryChart\bin\Debug\CPU_MemoryChart.exe
+c:\users\ttstester\documents\visual studio 2012\Projects\CPU_MemoryChart\CPU_MemoryChart\bin\Debug\CPU_MemoryChart.pdb
+c:\users\ttstester\documents\visual studio 2012\Projects\CPU_MemoryChart\CPU_MemoryChart\obj\Debug\CPU_MemoryChart.csprojResolveAssemblyReference.cache
+c:\users\ttstester\documents\visual studio 2012\Projects\CPU_MemoryChart\CPU_MemoryChart\obj\Debug\CPU_MemoryChart.RecourceMonitorForm.resources
+c:\users\ttstester\documents\visual studio 2012\Projects\CPU_MemoryChart\CPU_MemoryChart\obj\Debug\CPU_MemoryChart.Properties.Resources.resources
+c:\users\ttstester\documents\visual studio 2012\Projects\CPU_MemoryChart\CPU_MemoryChart\obj\Debug\CPU_MemoryChart.csproj.GenerateResource.Cache
+c:\users\ttstester\documents\visual studio 2012\Projects\CPU_MemoryChart\CPU_MemoryChart\obj\Debug\CPU_MemoryChart.exe
+c:\users\ttstester\documents\visual studio 2012\Projects\CPU_MemoryChart\CPU_MemoryChart\obj\Debug\CPU_MemoryChart.pdb
+c:\users\ttstester\documents\visual studio 2012\Projects\CPU_MemoryChart\CPU_MemoryChart\obj\Debug\CPU_MemoryChart.ReportFrame.resources
